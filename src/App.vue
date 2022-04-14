@@ -20,7 +20,9 @@ import HelloWorld from './components/HelloWorld.vue'
     </div>
   </div>
   <div>
-    <p>hello</p>
+    <div>
+      <p>Hello world</p>
+    </div>
   </div>
 </template>
 
