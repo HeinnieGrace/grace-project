@@ -9,8 +9,8 @@ import HelloWorld from './components/HelloWorld.vue'
     <div class="flex-initial w-72 ml-40">
       <img class="rounded-xl h-64 w-64" alt="profile" src="./assets/profile.jpeg" />
     </div>
-    <div class="flex-1 mr-40 bg-pink-300 font-sans tracking-widest text-3xl py-8">
-      <div class="bg-blue-300">
+    <div class="flex-1 mr-40 font-sans tracking-widest text-3xl py-8">
+      <div>
         <p>20FTT1442</p>
         <br>
         <p class="font-bold">Xan Heinnie Grace Binti Bandang</p>
@@ -19,9 +19,9 @@ import HelloWorld from './components/HelloWorld.vue'
       </div>
     </div>
   </div>
-  <div class="mt-8">
-    <div>
-      <p>Hello world</p>
+  <div class="mt-40">
+    <div class="text-3xl font-sans tracking-widest">
+      <p>Email me at <span class="underline">heinnie.g213@gmail.com</span></p>
     </div>
   </div>
 </template>
