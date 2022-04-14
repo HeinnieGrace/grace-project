@@ -19,7 +19,7 @@ import HelloWorld from './components/HelloWorld.vue'
       </div>
     </div>
   </div>
-  <div>
+  <div class="mt-8">
     <div>
       <p>Hello world</p>
     </div>
