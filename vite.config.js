@@ -6,4 +6,3 @@ export default defineConfig({
   base: heinniegrace.github.io,
   plugins: [vue()]
 })
-
