@@ -5,8 +5,23 @@ import HelloWorld from './components/HelloWorld.vue'
 </script>
 
 <template>
-  <img alt="Vue logo" src="./assets/logo.png" />
-  <HelloWorld msg="Hello Vue 3 + Vite" />
+  <div class="flex mt-24">
+    <div class="flex-initial w-72 ml-40">
+      <img class="rounded-xl h-64 w-64" alt="profile" src="./assets/profile.jpeg" />
+    </div>
+    <div class="flex-1 mr-40 bg-pink-300 font-sans tracking-widest text-3xl py-8">
+      <div class="bg-blue-300">
+        <p>20FTT1442</p>
+        <br>
+        <p class="font-bold">Xan Heinnie Grace Binti Bandang</p>
+        <br>
+        <p>DWDT06</p>
+      </div>
+    </div>
+  </div>
+  <div>
+    <p>hello</p>
+  </div>
 </template>
 
 <style>
